@@ -1,25 +1,19 @@
 # LeetCode Solutions
 
-A collection of coding interview problems solved using optimized approaches.
+Collection of Data Structures and Algorithms solutions frequently asked in coding interviews.
 
-## Categories
+## Topics
 
 - Arrays
-- Strings
-- Linked Lists
+- Binary Search
 - Trees
+- Graphs
 - Dynamic Programming
 
-## Skills Demonstrated
+## Languages
 
-- Problem Solving
-- Data Structures
-- Algorithms
-- Interview Preparation
+- Python
 
-## Future Additions
+## Goal
 
-- Graph Algorithms
-- Backtracking
-- Greedy Algorithms
-- Binary Search
+Solve 100+ interview problems.
